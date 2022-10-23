@@ -38,34 +38,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="./usuarios.php">Usuários</a>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Produtos
-                        </a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="./cadastro_produtos.php">Cadastro</a></li>
-                            <li><a class="dropdown-item" href="./pesquisa_produtos.php">Pesquisa</a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
-                            <li><a class="dropdown-item" href="./estoque.php">Estoque</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="./clientes.php">Clientes</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="./vendas.php">Vendas</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="./colaboradores.php">Colaboradores</a>
-                    </li>
+                 
                     <li class="nav-item">
                         <a class="nav-link" href="./cep.php">Cep</a>
-                    </li>
-
-                    <li class="nav-item">
-                        <a class="nav-link" href="./pokemon.php">Pokemon</a>
                     </li>
                 </ul>
 
